@@ -9,7 +9,7 @@ body {
 
 .container {
     width: 70%;
-    padding: 1cm;
+    padding: 0;
     text-align: left;
     border: 1px solid grey;
     margin: auto;
@@ -17,4 +17,13 @@ body {
 
 .container h1 {
     font-size: 20px;
+}
+
+.cabecera {
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,);
+    font-weight: bolder;
 }
